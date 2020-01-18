@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SQLiteProject2020</string>
+    <string name="edit_contact_fragment">EditFragmentContact</string>
+    <string name="profile_fragment_contact">ProfileFragmentContact</string>
+    <string name="contact">Contact</string>
+    <string name="showdialog">DialogShow</string>
+    <string name="edittitle">Edit Contact</string>
+    <string name="addtitle">Add Contact</string>
+    <string name="addcontactFragment">AddContactFragment</string>
+    <array name="devices">
+        <item>Mobile</item>
+        <item>Tablet</item>
+        <item>Laptop</item>
+        <item>Phone</item>
+        <item>Pager</item>
+    </array>
+</resources>
